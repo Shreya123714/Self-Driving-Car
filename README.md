@@ -1,4 +1,4 @@
 To test this version, 
-fork this repository, in to your local system and run index.html.
+https://shreya123714.github.io/Self-Driving-Car/
 
-Will soon launch it on a website, you will see a better and more advance version of it, in coming days.
+Will going to add more functionality into it! for now it is bit slow
